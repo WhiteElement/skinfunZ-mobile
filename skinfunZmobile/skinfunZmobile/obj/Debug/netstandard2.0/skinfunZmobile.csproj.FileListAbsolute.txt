@@ -1,0 +1,13 @@
+C:\Entwicklung\skifunz\skinfunZmobile\skinfunZmobile\skinfunZmobile\bin\Debug\netstandard2.0\skinfunZmobile.deps.json
+C:\Entwicklung\skifunz\skinfunZmobile\skinfunZmobile\skinfunZmobile\bin\Debug\netstandard2.0\skinfunZmobile.dll
+C:\Entwicklung\skifunz\skinfunZmobile\skinfunZmobile\skinfunZmobile\bin\Debug\netstandard2.0\skinfunZmobile.pdb
+C:\Entwicklung\skifunz\skinfunZmobile\skinfunZmobile\skinfunZmobile\obj\Debug\netstandard2.0\skinfunZmobile.csproj.AssemblyReference.cache
+C:\Entwicklung\skifunz\skinfunZmobile\skinfunZmobile\skinfunZmobile\obj\Debug\netstandard2.0\skinfunZmobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Entwicklung\skifunz\skinfunZmobile\skinfunZmobile\skinfunZmobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Entwicklung\skifunz\skinfunZmobile\skinfunZmobile\skinfunZmobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Entwicklung\skifunz\skinfunZmobile\skinfunZmobile\skinfunZmobile\obj\Debug\netstandard2.0\skinfunZmobile.AssemblyInfoInputs.cache
+C:\Entwicklung\skifunz\skinfunZmobile\skinfunZmobile\skinfunZmobile\obj\Debug\netstandard2.0\skinfunZmobile.AssemblyInfo.cs
+C:\Entwicklung\skifunz\skinfunZmobile\skinfunZmobile\skinfunZmobile\obj\Debug\netstandard2.0\skinfunZmobile.csproj.CoreCompileInputs.cache
+C:\Entwicklung\skifunz\skinfunZmobile\skinfunZmobile\skinfunZmobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Entwicklung\skifunz\skinfunZmobile\skinfunZmobile\skinfunZmobile\obj\Debug\netstandard2.0\skinfunZmobile.dll
+C:\Entwicklung\skifunz\skinfunZmobile\skinfunZmobile\skinfunZmobile\obj\Debug\netstandard2.0\skinfunZmobile.pdb
